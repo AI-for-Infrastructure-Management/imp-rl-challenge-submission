@@ -16,7 +16,7 @@ The infrastructure management planning (IMP-ACT) environment simulates a real-wo
 ## What does it look like?
 The illustration below introduces the abstractions and terminology used in the environment.
 <p align="center">
-<img src="examples/environment_overview.svg" alt="Description" style="width:80%;">
+<img src="examples/environment_overview.svg" alt="Description" style="width:100%;">
 </p>
 
 ## Action Space
